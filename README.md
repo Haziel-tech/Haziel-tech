@@ -21,7 +21,7 @@ Meu nome é Haziel Barros, sou estudante de Sistema de informação e desenvolve
   <a href="https://www.linkedin.com/in/haziel-barros-ferreira-a8b80438a">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
-  <a href="https://www.instagram.com/haziel.barros?igsh=MWdncHg4ZGkxYjB2aA==">
+  <a href="https://www.instagram.com/_twisttname?igsh=MWdncHg4ZGkxYjB2aA==">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
   </a>
