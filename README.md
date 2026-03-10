@@ -15,7 +15,7 @@ Meu nome é Haziel Barros, sou estudante de Sistema de informação e desenvolve
 ### 📬 Conecte-se comigo
 
 <p align="center">
-  <a href="hazielbarros@hotmail.com">
+  <a href="adv2607@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
   <a href="https://www.linkedin.com/in/haziel-barros-ferreira-a8b80438a">
