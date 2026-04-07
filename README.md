@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Olá,%20sou%20Haziel%20Barros&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Sistema%20de%20Informação%20%7C%20Solucionador%20de%20Problemas&descSize=27&descAlignY=85&section=header" />
 
-Meu nome é Haziel Barros, sou estudante de Sistema de informação e desenvolvedor front-end, apaixonado por IA e aprendizado de máquina. Gosto de criar projetos web interativos e explorar soluções inteligentes.
+Sou um estudante de Sistema de informação de 19 anos, Possuo conhecimento acadêmico em Sistema de informação, com foco em Cibersegurança e Sistema de informação, complementado por experiência em tecnologias web, desenvolvimento mobile , desenvolvimento de Discord bots e resolução de problemas.
 
 💡 *“Aplicando lógica e elegância em cada linha de código.”*
 
