@@ -7,7 +7,7 @@ Sou um estudante de Sistema de informação de 19 anos, Possuo conhecimento acad
 ---
 
 <div align="center">
-    <picture> <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif"></picture>
+    <picture> <img align="center" src="https://raw.githubusercontent.com/RamonLarcherRibeiro/RamonLarcherRibeiro/main/rain.gif"></picture>
 </div>
 
 ---
